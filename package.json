@@ -1,0 +1,17 @@
+{
+  "name": "web_player",
+  "version": "1.0.0",
+  "description": "web player service ",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "video.js": "^5.15.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Nevarez",
+  "license": "ISC"
+}
