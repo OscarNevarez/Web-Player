@@ -13,5 +13,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Oscar Nevarez",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarNevarez/Web-Player.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OscarNevarez/Web-Player/issues"
+  },
+  "homepage": "https://github.com/OscarNevarez/Web-Player#readme"
 }
